@@ -1,7 +1,6 @@
 {
   "version": 2,
   "buildCommand": "npm run build",
-  "startCommand": "npm start",
   "env": {
     "NODE_ENV": "production"
   },
